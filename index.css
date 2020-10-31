@@ -14,6 +14,13 @@ body {
     box-shadow: 0px 0px 10px 2px black;
 }
 
+.contexte {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 2px black;
+}
+
 .projects {
     background-color: white;
     color: black;
